@@ -16,7 +16,7 @@
 ## کارهای میان ترم✏
 - [حساب گیت هاب من](https://github.com/fatemehsatari)
 - [PNU_3991_AR](https://github.com/fatemehsatari/pnu_3991AR)
-- [فرم رزومه و سوابق کاری من](link) 
+- [فرم رزومه و سوابق کاری من](https://fatemehsatari.github.io/ostadrazavi/) 
 - [فرم انگیزه نامه من](link)
 - [مدرک جاوا اسکریپ من](link)
 ------------------
