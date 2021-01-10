@@ -35,9 +35,11 @@
 ------------------
 
 ## کارهای پایان ترم📖📗📘📕
-- [لاتک من](link)
-- [رائه بیمر من pdf فایل](https://github.com/fatemehsatari/pnu_3991AR/blob/main/beamer%20man/beamer405408.pdf)
-- [رائه بیمر من tex فایل](link)
+- [ارائه لاتک من pdf فایل](link)
+- [ارائه لاتک من tex فایل]
+------------------
+- [ارائه بیمر من pdf فایل](https://github.com/fatemehsatari/pnu_3991AR/blob/main/beamer%20man/beamer405408.pdf)
+- [ارائه بیمر من tex فایل](https://github.com/fatemehsatari/pnu_3991AR/blob/main/beamer%20man/beamer405408.tex)
 
 - [فیلم ارائه پاورپوینت من](link)
 
