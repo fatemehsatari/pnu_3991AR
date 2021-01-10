@@ -28,7 +28,7 @@
 
 ## فرم های ارزیابی عمومی فعالیت مشترک همه دانشجویان
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/fatemehsatari/pnu_3991AR/blob/main/%D9%81%D8%B1%D9%85%20%D8%B9%D9%85%D9%88%D9%85%DB%8C/%D8%B9%D9%85%D9%88%D9%85%DB%8C%201.pdf)
-- [خلاصه ارزیابی بخش عمومی](link)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/fatemehsatari/pnu_3991AR/blob/main/%D9%81%D8%B1%D9%85%20%D8%B9%D9%85%D9%88%D9%85%DB%8C/%D8%B9%D9%85%D9%88%D9%85%DB%8C%202.pdf)
 
 ## فرم ارزیابی درس کارشناسی نظریه زبان
 - [فایل ارزیابی من](https://github.com/fatemehsatari/pnu_3991AR/blob/main/%D8%AA%D8%AE%D8%B5%D8%B5%DB%8C%20%D9%85%D9%86%20%D9%81%D8%B1%D9%85.pdf)
