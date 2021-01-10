@@ -19,7 +19,8 @@
 - [فرم رزومه و سوابق کاری من](https://fatemehsatari.github.io/ostadrazavi/) 
 - [فرم انگیزه نامه من](https://github.com/fatemehsatari/pnu_3991AR/blob/main/baraymysop.pdf)
 - [مدرک جاوا اسکریپ من](link)
-استاد من با کمک دوستم بصیری تونستم دستورات گیت رو یاد بگیرم. چون شاخه این اسمم داخل ریپازیتوری من نیست با گیت هاب سرگروه آقای بصیری شاخه اسمم رو اضافه کردم.⚠
+------------------
+استاد من با کمک سرگروه تونستم دستورات گیت رو یاد بگیرم. چون شاخه این اسمم داخل ریپازیتوری من نیست با گیت هاب سرگروه آقای بصیری شاخه اسمم رو اضافه کردم.⚠
 - [استاد جهت بررسی شاخه اسمم در گیت هاب آقای بصیری](https://github.com/mrezabasiri/patchwork)
 - [patchwork](https://github.com/fatemehsatari/pnu_3991AR/blob/main/patchwork%20man/Screenshot%20(261)_LI.jpg)
 ------------------
