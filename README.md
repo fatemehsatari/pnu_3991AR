@@ -44,7 +44,7 @@
 - [ارائه بیمر من pdf فایل](https://github.com/fatemehsatari/pnu_3991AR/blob/main/beamer%20man/beamer405408.pdf)
 - [ارائه بیمر من tex فایل](https://github.com/fatemehsatari/pnu_3991AR/blob/main/beamer%20man/beamer405408.tex)
 ------------------
-- [فیلم ارائه پاورپوینت من](link)
+- [فیلم ارائه پاورپوینت من تکمیل نشده](link)
 
 
 
